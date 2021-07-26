@@ -1,2 +1,2 @@
 # farm-sim
-Symulator prac rolniczych Unity
+Farm work simulator created with Unity
